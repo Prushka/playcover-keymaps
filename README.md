@@ -1,2 +1,2 @@
 ## Keymaps
-- Zenless Zone Zero (iPad Pro M4) (Battle/Open World/Dialogue)
+- Zenless Zone Zero (Graphics: iPad Pro 13-inch M4) (Battle/Open World/Dialogue)
