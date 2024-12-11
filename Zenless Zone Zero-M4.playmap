@@ -14,11 +14,11 @@
 			<key>transform</key>
 			<dict>
 				<key>size</key>
-				<real>5.0</real>
+				<real>5</real>
 				<key>xCoord</key>
-				<real>0.9031147400538126</real>
+				<real>0.7963618755340576</real>
 				<key>yCoord</key>
-				<real>0.9041258917914496</real>
+				<real>0.7371670616997613</real>
 			</dict>
 		</dict>
 		<dict>
@@ -29,11 +29,11 @@
 			<key>transform</key>
 			<dict>
 				<key>size</key>
-				<real>5.0</real>
+				<real>5</real>
 				<key>xCoord</key>
-				<real>0.07508645057678223</real>
+				<real>0.07699148654937744</real>
 				<key>yCoord</key>
-				<real>0.05926544754593461</real>
+				<real>0.06190907513653791</real>
 			</dict>
 		</dict>
 		<dict>
@@ -44,11 +44,11 @@
 			<key>transform</key>
 			<dict>
 				<key>size</key>
-				<real>5.0</real>
+				<real>5</real>
 				<key>xCoord</key>
-				<real>0.9419251680374146</real>
+				<real>0.8808667659759521</real>
 				<key>yCoord</key>
-				<real>0.8616062023021557</real>
+				<real>0.6384727054172092</real>
 			</dict>
 		</dict>
 		<dict>
@@ -59,11 +59,11 @@
 			<key>transform</key>
 			<dict>
 				<key>size</key>
-				<real>5.0</real>
+				<real>5</real>
 				<key>xCoord</key>
-				<real>0.9446466525395711</real>
+				<real>0.8787582794825236</real>
 				<key>yCoord</key>
-				<real>0.9453293976960359</real>
+				<real>0.8158735628481264</real>
 			</dict>
 		</dict>
 		<dict>
@@ -74,11 +74,11 @@
 			<key>transform</key>
 			<dict>
 				<key>size</key>
-				<real>5.0</real>
+				<real>5</real>
 				<key>xCoord</key>
-				<real>0.8621287107467651</real>
+				<real>0.7140753904978434</real>
 				<key>yCoord</key>
-				<real>0.9461100825557003</real>
+				<real>0.8159534171775535</real>
 			</dict>
 		</dict>
 		<dict>
@@ -89,11 +89,11 @@
 			<key>transform</key>
 			<dict>
 				<key>size</key>
-				<real>5.0</real>
+				<real>5</real>
 				<key>xCoord</key>
-				<real>0.9420778910319011</real>
+				<real>0.8805327892303467</real>
 				<key>yCoord</key>
-				<real>0.7766090816921658</real>
+				<real>0.469159585458261</real>
 			</dict>
 		</dict>
 		<dict>
@@ -104,11 +104,11 @@
 			<key>transform</key>
 			<dict>
 				<key>size</key>
-				<real>5.0</real>
+				<real>5</real>
 				<key>xCoord</key>
-				<real>0.9038587888081868</real>
+				<real>0.7967021942138672</real>
 				<key>yCoord</key>
-				<real>0.9046754625108507</real>
+				<real>0.7330991956922743</real>
 			</dict>
 		</dict>
 		<dict>
@@ -119,11 +119,11 @@
 			<key>transform</key>
 			<dict>
 				<key>size</key>
-				<real>5.0</real>
+				<real>5</real>
 				<key>xCoord</key>
-				<real>0.8116645256678263</real>
+				<real>0.8158920685450236</real>
 				<key>yCoord</key>
-				<real>0.82361937628852</real>
+				<real>0.8516104239004629</real>
 			</dict>
 		</dict>
 		<dict>
@@ -134,11 +134,11 @@
 			<key>transform</key>
 			<dict>
 				<key>size</key>
-				<real>5.0</real>
+				<real>5</real>
 				<key>xCoord</key>
-				<real>0.1955502986907959</real>
+				<real>0.1840883731842041</real>
 				<key>yCoord</key>
-				<real>0.8172639634874131</real>
+				<real>0.8133229432282625</real>
 			</dict>
 		</dict>
 		<dict>
@@ -149,7 +149,7 @@
 			<key>transform</key>
 			<dict>
 				<key>size</key>
-				<real>5.0</real>
+				<real>5</real>
 				<key>xCoord</key>
 				<real>0.713344915707906</real>
 				<key>yCoord</key>
@@ -164,7 +164,7 @@
 			<key>transform</key>
 			<dict>
 				<key>size</key>
-				<real>5.0</real>
+				<real>5</real>
 				<key>xCoord</key>
 				<real>0.7127799431482951</real>
 				<key>yCoord</key>
@@ -179,7 +179,7 @@
 			<key>transform</key>
 			<dict>
 				<key>size</key>
-				<real>5.0</real>
+				<real>5</real>
 				<key>xCoord</key>
 				<real>0.31220540205637615</real>
 				<key>yCoord</key>
@@ -194,7 +194,7 @@
 			<key>transform</key>
 			<dict>
 				<key>size</key>
-				<real>5.0</real>
+				<real>5</real>
 				<key>xCoord</key>
 				<real>0.31173664728800454</real>
 				<key>yCoord</key>
@@ -209,11 +209,11 @@
 			<key>transform</key>
 			<dict>
 				<key>size</key>
-				<real>5.0</real>
+				<real>5</real>
 				<key>xCoord</key>
-				<real>0.9445214748382569</real>
+				<real>0.8811458428700765</real>
 				<key>yCoord</key>
-				<real>0.949719308923792</real>
+				<real>0.8180689069959852</real>
 			</dict>
 		</dict>
 		<dict>
@@ -224,11 +224,191 @@
 			<key>transform</key>
 			<dict>
 				<key>size</key>
-				<real>5.0</real>
+				<real>5</real>
 				<key>xCoord</key>
 				<real>0.13639322916666666</real>
 				<key>yCoord</key>
 				<real>0.06226850439001013</real>
+			</dict>
+		</dict>
+		<dict>
+			<key>keyCode</key>
+			<integer>16</integer>
+			<key>keyName</key>
+			<string>M</string>
+			<key>transform</key>
+			<dict>
+				<key>size</key>
+				<real>5</real>
+				<key>xCoord</key>
+				<real>0.8812551736831665</real>
+				<key>yCoord</key>
+				<real>0.47197045220269096</real>
+			</dict>
+		</dict>
+		<dict>
+			<key>keyCode</key>
+			<integer>61</integer>
+			<key>keyName</key>
+			<string>F4</string>
+			<key>transform</key>
+			<dict>
+				<key>size</key>
+				<real>5</real>
+				<key>xCoord</key>
+				<real>0.8801586627960205</real>
+				<key>yCoord</key>
+				<real>0.0853212144639757</real>
+			</dict>
+		</dict>
+		<dict>
+			<key>keyCode</key>
+			<integer>58</integer>
+			<key>keyName</key>
+			<string>F1</string>
+			<key>transform</key>
+			<dict>
+				<key>size</key>
+				<real>5</real>
+				<key>xCoord</key>
+				<real>0.7077351331710815</real>
+				<key>yCoord</key>
+				<real>0.0882569913510923</real>
+			</dict>
+		</dict>
+		<dict>
+			<key>keyCode</key>
+			<integer>6</integer>
+			<key>keyName</key>
+			<string>C</string>
+			<key>transform</key>
+			<dict>
+				<key>size</key>
+				<real>5</real>
+				<key>xCoord</key>
+				<real>0.6409642537434895</real>
+				<key>yCoord</key>
+				<real>0.08691921940556278</real>
+			</dict>
+		</dict>
+		<dict>
+			<key>keyCode</key>
+			<integer>59</integer>
+			<key>keyName</key>
+			<string>F2</string>
+			<key>transform</key>
+			<dict>
+				<key>size</key>
+				<real>5</real>
+				<key>xCoord</key>
+				<real>0.7636153300603231</real>
+				<key>yCoord</key>
+				<real>0.08892497309932003</real>
+			</dict>
+		</dict>
+		<dict>
+			<key>keyCode</key>
+			<integer>60</integer>
+			<key>keyName</key>
+			<string>F3</string>
+			<key>transform</key>
+			<dict>
+				<key>size</key>
+				<real>5</real>
+				<key>xCoord</key>
+				<real>0.8204440752665202</real>
+				<key>yCoord</key>
+				<real>0.08811608773690682</real>
+			</dict>
+		</dict>
+		<dict>
+			<key>keyCode</key>
+			<integer>41</integer>
+			<key>keyName</key>
+			<string>Esc</string>
+			<key>transform</key>
+			<dict>
+				<key>size</key>
+				<real>5</real>
+				<key>xCoord</key>
+				<real>0.9423928419748943</real>
+				<key>yCoord</key>
+				<real>0.20381924664532697</real>
+			</dict>
+		</dict>
+		<dict>
+			<key>keyCode</key>
+			<integer>13</integer>
+			<key>keyName</key>
+			<string>J</string>
+			<key>transform</key>
+			<dict>
+				<key>size</key>
+				<real>5</real>
+				<key>xCoord</key>
+				<real>0.796138342221578</real>
+				<key>yCoord</key>
+				<real>0.7320037983081958</real>
+			</dict>
+		</dict>
+		<dict>
+			<key>keyCode</key>
+			<integer>14</integer>
+			<key>keyName</key>
+			<string>K</string>
+			<key>transform</key>
+			<dict>
+				<key>size</key>
+				<real>5</real>
+				<key>xCoord</key>
+				<real>0.879635500907898</real>
+				<key>yCoord</key>
+				<real>0.810992177327474</real>
+			</dict>
+		</dict>
+		<dict>
+			<key>keyCode</key>
+			<integer>30</integer>
+			<key>keyName</key>
+			<string>1</string>
+			<key>transform</key>
+			<dict>
+				<key>size</key>
+				<real>5</real>
+				<key>xCoord</key>
+				<real>0.18598654270172119</real>
+				<key>yCoord</key>
+				<real>0.8175589384856048</real>
+			</dict>
+		</dict>
+		<dict>
+			<key>keyCode</key>
+			<integer>31</integer>
+			<key>keyName</key>
+			<string>2</string>
+			<key>transform</key>
+			<dict>
+				<key>size</key>
+				<real>5</real>
+				<key>xCoord</key>
+				<real>0.8147818009058635</real>
+				<key>yCoord</key>
+				<real>0.851121888337312</real>
+			</dict>
+		</dict>
+		<dict>
+			<key>keyCode</key>
+			<integer>51</integer>
+			<key>keyName</key>
+			<string>;</string>
+			<key>transform</key>
+			<dict>
+				<key>size</key>
+				<real>5</real>
+				<key>xCoord</key>
+				<real>0.9255815029144288</real>
+				<key>yCoord</key>
+				<real>0.7445126427544488</real>
 			</dict>
 		</dict>
 	</array>
@@ -248,11 +428,11 @@
 			<key>transform</key>
 			<dict>
 				<key>size</key>
-				<real>20.0</real>
+				<real>20</real>
 				<key>xCoord</key>
-				<real>0.090270733833313</real>
+				<real>0.1764328161875407</real>
 				<key>yCoord</key>
-				<real>0.8993158834951895</real>
+				<real>0.7101427007604529</real>
 			</dict>
 			<key>upKeyCode</key>
 			<integer>26</integer>
@@ -266,11 +446,11 @@
 			<key>transform</key>
 			<dict>
 				<key>size</key>
-				<real>25.0</real>
+				<real>25</real>
 				<key>xCoord</key>
-				<real>0.8149799823760986</real>
+				<real>0.7908993641535441</real>
 				<key>yCoord</key>
-				<real>0.49449104026511864</real>
+				<real>0.5184236314561632</real>
 			</dict>
 		</dict>
 	</array>
